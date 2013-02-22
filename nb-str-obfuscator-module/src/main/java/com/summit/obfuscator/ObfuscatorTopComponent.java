@@ -36,7 +36,7 @@ autostore = false)
 persistenceType = TopComponent.PERSISTENCE_ALWAYS)
 @TopComponent.Registration(mode = "editor", openAtStartup = false)
 @ActionID(category = "Window", id = "com.summit.obfuscator.ObfuscatorTopComponent")
-@ActionReference(path = "Menu/Window" /*, position = 333 */)
+@ActionReference(path = "Menu/Window" , position = 333)
 @TopComponent.OpenActionRegistration(
     displayName = "#CTL_ObfuscatorAction",
 preferredID = "ObfuscatorTopComponent")

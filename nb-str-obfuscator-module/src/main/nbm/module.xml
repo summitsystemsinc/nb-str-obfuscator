@@ -6,11 +6,4 @@
     <licenseName>Apache License, Version 2.0</licenseName>
     <licenseFile>license.txt</licenseFile>
     -->
-    <dependencies>
-       <dependency>
-            <id>org.netbeans.modules:org.netbeans.libs.javacimpl</id>
-            <type>impl</type>
-            <explicitValue>0.60.2.10.8.4</explicitValue>
-        </dependency>
-    </dependencies>
 </nbm>
